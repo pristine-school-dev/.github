@@ -1,10 +1,8 @@
-
-![Pristine Pathway (1)](https://github.com/user-attachments/assets/263f90df-a1d9-4928-a370-178a2aa4a88c)
-
 # Pristine Public School - Development
 
 [![Organization's GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]([Your Organization's GitHub Link])
-<!-- You can't link to private projects in the badges, but you can still link to the org profile -->
+[![Website](https://img.shields.io/badge/Website-blue?logo=world)]([Your Website Link])
+[![YouTube Channel](https://img.shields.io/badge/YouTube-red?logo=youtube)]([Your YouTube Channel Link])
 
 ## About Us
 
