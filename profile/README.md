@@ -1,4 +1,4 @@
-# Pristine Public School - Development
+<center> # Pristine Public School - Development </center>
 
 ## About Us
 
