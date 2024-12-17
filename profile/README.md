@@ -1,9 +1,5 @@
 # Pristine Public School - Development
 
-![Organization's GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
-![Website](https://img.shields.io/badge/Website-blue?logo=world)
-![YouTube Channel](https://img.shields.io/badge/YouTube-red?logo=youtube)
-
 ## About Us
 
 Welcome to the Pristine Public School development organization on GitHub! This organization houses the internal projects and development efforts specifically for **Pristine Public School**. Our primary focus is to develop and maintain the **Pristine Pathway** project and its associated documentation.
