@@ -1,8 +1,8 @@
 # Pristine Public School - Development
 
-[![Organization's GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]
-[![Website](https://img.shields.io/badge/Website-blue?logo=world)]
-[![YouTube Channel](https://img.shields.io/badge/YouTube-red?logo=youtube)]
+![Organization's GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+![Website](https://img.shields.io/badge/Website-blue?logo=world)
+![YouTube Channel](https://img.shields.io/badge/YouTube-red?logo=youtube)
 
 ## About Us
 
