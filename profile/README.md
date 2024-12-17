@@ -1,3 +1,6 @@
+
+![Pristine Pathway (1)](https://github.com/user-attachments/assets/263f90df-a1d9-4928-a370-178a2aa4a88c)
+
 # Pristine Public School - Development
 
 [![Organization's GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]([Your Organization's GitHub Link])
@@ -23,14 +26,12 @@ This organization contains the following private repositories:
 
 Contributions to these projects are limited to students, faculty, and approved staff of Pristine Public School. If you are a member of the Pristine Public School community and wish to contribute, please contact administration for access and guidelines.
 
-Since this is an internal organization, detailed contribution guidelines here are likely unnecessary. Instead, refer contributors to internal resources. For example:
+Since this is an internal organization, detailed contribution guidelines here are likely unnecessary. Instead, refer contributors to internal resources.
 
 ## Code of Conduct
 
 We uphold the highest standards of conduct within our development community. All members of this organization are expected to adhere to the Pristine Public School's code of conduct and guidelines, emphasizing respect, collaboration, and academic integrity.
 
 Again, instead of including a full Code of Conduct, refer to the school's official policies:
-
-> All members of this organization are expected to adhere to the Pristine Public School's Code of Conduct, which can be found [link to school's Code of Conduct document].
 
 **Thank you for your understanding regarding the private nature of these repositories.** We appreciate your cooperation in respecting the intended use of this organization for the benefit of Pristine Public School.
